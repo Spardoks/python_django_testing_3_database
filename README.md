@@ -1,6 +1,8 @@
 # Выгрузка каталога товаров из csv-файла с сохранением всех позиций в базе данных
 
-https://github.com/netology-code/dj-homeworks/tree/video/2.1-databases/work_with_database 
+https://github.com/netology-code/dj-homeworks/tree/video/2.1-databases/work_with_database
+
+https://docs.djangoproject.com/en/5.1/ref/models/fields/
 
 ## Задание
 
